@@ -4,7 +4,7 @@
 
 - **📝 Created with https://keyauth.cc/**
 
-# THIS IS ONLY FOR **LICENSE KEYS**! (No Login, Register, etc.)
+# ⚠️ THIS IS ONLY FOR **LICENSE KEYS**! (No Login, Register, etc.)
 
 ## No credits needed
 
