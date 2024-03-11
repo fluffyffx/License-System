@@ -4,5 +4,7 @@
 
 - **📝 Created with https://keyauth.cc/**
 
+## No credits needed
+
 # Created with ❤️ by fluffyffx
 
